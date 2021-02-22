@@ -1,0 +1,1 @@
+First, the program collects the user's age, years with hydrocephalus, and country/state. Then, based on user search input, the program searches the dataset for doctors to consult, as well as their educational degrees and emails. If the user chooses, the program will also construct a personalized email to contact the doctor with.
